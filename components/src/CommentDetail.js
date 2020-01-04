@@ -15,7 +15,7 @@ const CommentDetail = function(props) {
                     <span className="date">{props.timeAgo}</span>
                 </div>
                 <div className="text">
-                    Here are the comments!
+                    {props.message}
                 </div>
             </div>
         </div>

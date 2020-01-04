@@ -12,7 +12,7 @@ const CommentDetail = function(props) {
                     {props.author}
                 </a>
                 <div className="metadata">
-                    <span className="date">Today 6PM</span>
+                    <span className="date">{props.timeAgo}</span>
                 </div>
                 <div className="text">
                     Here are the comments!

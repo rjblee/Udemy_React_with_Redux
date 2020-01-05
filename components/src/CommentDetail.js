@@ -1,5 +1,4 @@
 import React from 'react';
-// import faker from 'faker';
 
 const CommentDetail = function(props) {
     return (
@@ -11,9 +10,11 @@ const CommentDetail = function(props) {
                 <a href="/" className="author">
                     {props.author}
                 </a>
+
                 <div className="metadata">
                     <span className="date">{props.timeAgo}</span>
                 </div>
+                
                 <div className="text">
                     {props.message}
                 </div>

@@ -1,9 +1,6 @@
 import React from 'react';
 
 class SearchBar extends React.Component {
-    // onInputChange(event) {
-    //     console.log(event.target.value)
-    // }
 
     state = { term: ''};
 
@@ -18,7 +15,7 @@ class SearchBar extends React.Component {
             <div className="ui segment">
                 <form onSubmit={this.onFormSubmit} className="ui form">
                     <div className="field">
-                        <label>Image Search</label>
+                        <h2><label>Image Search</label></h2>
                         <input 
                             type="text" 
                             value={this.state.term} 

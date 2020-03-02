@@ -1,7 +1,17 @@
+# Image Search Application
+
+A simple React.js based web application that allows the user to search for images by keywords.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
 You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
+
+## Screenshots
+
+!["Screenshot of URLs page"](https://github.com/rjblee/Udemy_React_with_Redux/blob/master/image_search/images/plants.png?raw=true)
+
 
 ## Table of Contents
 

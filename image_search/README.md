@@ -11,6 +11,9 @@ You can find the most recent version of this guide [here](https://github.com/fac
 ## Screenshots
 
 !["Screenshot of URLs page"](https://github.com/rjblee/Udemy_React_with_Redux/blob/master/image_search/images/plants.png?raw=true)
+!["Screenshot of URLs page"](https://github.com/rjblee/Udemy_React_with_Redux/blob/master/image_search/images/flowers.png?raw=true)
+!["Screenshot of URLs page"](https://github.com/rjblee/Udemy_React_with_Redux/blob/master/image_search/images/cars.png?raw=true)
+
 
 
 ## Table of Contents
